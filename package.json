@@ -33,7 +33,7 @@
     "immutable": "^3.7.2",
     "iso": "^4.1.0",
     "istanbul": "0.3.19",
-    "jsdom": "6.3.0",
+    "jsdom": "16.5.0",
     "lunr": "^0.5.9",
     "mocha": "^2.2.4",
     "object-assign": "^2.0.0",
